@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 👯 I’m looking to collaborate on Web Development Framworks(React).
 - 📫 How to reach me: https://www.linkedin.com/in/harsh-udai-6b4189182/
+[![HitCount](http://hits.dwyl.com/HarshUdai/HarshUdai.svg)](http://hits.dwyl.com/HarshUdai/HarshUdai)
 <!--
 **HarshUdai/HarshUdai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
