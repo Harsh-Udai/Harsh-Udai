@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👯 I’m looking to collaborate on Web Development Frameworks(React).
-- 📫 How to reach me: <a target="blank" href="https://www.linkedin.com/in/harsh-udai-6b4189182/">Let's get in touch! </a>
+- 📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/harsh-udai-6b4189182/">Let's get in touch! </a>
 - 🔭 I’m currently working on Full Stack (MERN).
 <!--
 **HarshUdai/HarshUdai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
