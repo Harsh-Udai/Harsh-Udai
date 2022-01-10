@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👯 I’m looking to collaborate on Web Development Projects.
+- 👯 I’m looking to collaborate on Web Development & Machine Learning Projects.
 - 📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/harsh-udai-6b4189182/">Let's get in touch! </a>
 - 🔭 I’m currently working on Full Stack (MERN) Development.
 <!--
