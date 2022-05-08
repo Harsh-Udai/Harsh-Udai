@@ -34,5 +34,5 @@ Here are some ideas to get you started:
    <h3> I'm 21 years old Self-taught Full-Stack developer from India.</h3>
 </p>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshUdai)](https://github.com/anuraghazra/github-readme-stats)
+
 
