@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/harsh-udai-6b4189182//"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/harsh-udai-6b4189182/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/harshudai"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
  </p>
  
