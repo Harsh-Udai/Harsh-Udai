@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 - 👯 I’m looking to collaborate on Web Development & Machine Learning Projects.
 - 📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/harsh-udai-6b4189182/">Let's get in touch! </a>
 - 🔭 I’m currently working on Full Stack (MERN) Development.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+ -->
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Harsh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
