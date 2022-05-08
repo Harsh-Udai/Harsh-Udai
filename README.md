@@ -67,6 +67,7 @@ Here are some ideas to get you started:
    <img src="https://media2.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif?cid=ecf05e47746aqf8njho3rey22qoyxlb3767550xwufdq0k5h&rid=giphy.gif&ct=s" width="100"></img>
    <img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e4775k72lxkplfmh0bxd7a1xu6rqn65a4qaruicjjn2&rid=giphy.gif&ct=s" width="100"></img>
    <img src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47rpometppdpigx0l7zxks5ab07qxwnwl0nz0ynf6i&rid=giphy.gif&ct=s" width="100"></img>
+   <img src="https://media0.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif?cid=ecf05e47dysdomssu7glmqtur02gogyxoias4huwvanbr1oa&rid=giphy.gif&ct=s" width="100"></img>
    <br><br>
 
 </p>
