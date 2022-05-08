@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </p>
 </div>
 
-### Languages ### & Technologies
+### Languages & Technologies
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
