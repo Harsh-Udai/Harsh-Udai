@@ -61,11 +61,9 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HarshUdai&show_icons=true&theme=gotham" alt="HarshUdai" />
-<div>
-   
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HarshUdai&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=trueshow_icons=true&theme=gotham" alt="HarshUdai" />
+
 Stats:
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=HarshUdai&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshUdai&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshUdai&theme=dark)](https://git.io/streak-stats)
-</div>
