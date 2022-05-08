@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 ### Stats
  <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=HarshUdai&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=trueshow_icons=true&theme=gotham" alt="HarshUdai" /> 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshUdai&theme=dark" alt="HarshUdai" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshUdai&theme=dark"  alt="HarshUdai" />
 </p>
 
 
