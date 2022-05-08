@@ -26,5 +26,9 @@ Here are some ideas to get you started:
 <p align='center'>
    <a href="https://www.linkedin.com/in/harsh-udai-6b4189182//"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/harshudai"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-
  </p>
+ 
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Harsh Udai | 💻 Full Stack Developer | 🛸 Jaipur , India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
