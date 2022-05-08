@@ -32,3 +32,9 @@ Here are some ideas to get you started:
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Harsh Udai | 💻 Full Stack Developer | 🛸 Jaipur , India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
+<div>
+   <p align="center">
+      <h3> I'm 19 years old Self-taught Full-Stack developer from India.</h3>
+   </p>
+</div>
+
