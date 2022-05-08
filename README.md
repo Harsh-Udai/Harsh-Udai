@@ -35,5 +35,4 @@ Here are some ideas to get you started:
 </p>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HarshUdai&repo=github-readme-stats)](https://github.com/HarshUdai/github-readme-stats)
 
