@@ -58,7 +58,12 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+<!--    <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"> -->
+   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
    <img src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif?cid=ecf05e478rhfqdy62lqz6oe6zj1m4s7rhd6nq2m0ggro7gpn&rid=giphy.gif&ct=s" width="100"></img>
    <img src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47rpometppdpigx0l7zxks5ab07qxwnwl0nz0ynf6i&rid=giphy.gif&ct=s" width="100"></img>
    <img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e4775k72lxkplfmh0bxd7a1xu6rqn65a4qaruicjjn2&rid=giphy.gif&ct=s" width="100"></img>
