@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 <div align="center">
-   <h1>Hi there, I'm <a>Harsh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a>Harsh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> </h1>
    
    
 </div>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  </p>
  
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Harsh Udai | 💻 Full Stack Developer | 🛸 Jaipur , India </h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Harsh Udai | 💻 Full Stack Developer | 🛸 Jaipur , India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10"></h3>
  <p align="center">
    <h3> I'm 21 years old Self-taught Full-Stack developer from India.</h3>
 </p>
