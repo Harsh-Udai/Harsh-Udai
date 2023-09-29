@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://drive.google.com/file/d/1bG90olm8GmGGGy-rb5gx_PcCcEImyUwa/view?usp=sharing)
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 <div align="center">
    <h1>Hi there, I'm <a>Harsh</a> </h1>
    
