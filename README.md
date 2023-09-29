@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 ![](https://drive.google.com/file/d/1bG90olm8GmGGGy-rb5gx_PcCcEImyUwa/view?usp=sharing)
 <div align="center">
    <h1>Hi there, I'm <a>Harsh</a> </h1>
